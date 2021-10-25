@@ -13,3 +13,4 @@ STEP5 : Create a secret.txt file and place the user credentials in it.
 
 STEP6 : Create a security.md file to give details about the step5.
 
+STEP 7 : Create a branch out of main branch from specific commit [git-trial branch has been created from the git-assignment branch from the  commit "insert secret"]
